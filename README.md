@@ -14,22 +14,23 @@ This project helps manage hotel room bookings, customer details, food orders, bi
 ✨ Features
 
 Room Management
+<ul>
+<li> Luxury Double Room (10 rooms)</li>
 
-Luxury Double Room (10 rooms)
+<li >Deluxe Double Room (20 rooms)</li>
 
-Deluxe Double Room (20 rooms)
+<li >Luxury Single Room (10 rooms)</li>
 
-Luxury Single Room (10 rooms)
+<li> Deluxe Single Room (20 rooms)</li>
+</ul>
 
-Deluxe Single Room (20 rooms)
+1) Customer Details → Name, Contact, Gender (supports 1 or 2 customers in a room)
 
-Customer Details → Name, Contact, Gender (supports 1 or 2 customers in a room)
+2) Food Ordering → Sandwich, Pasta, Noodles, Coke with automatic billing
 
-Food Ordering → Sandwich, Pasta, Noodles, Coke with automatic billing
+3) Billing & Checkout → Room + food charges shown before releasing the room
 
-Billing & Checkout → Room + food charges shown before releasing the room
-
-Persistence → Data saved automatically in a backup file using Java serialization
+4) Persistence → Data saved automatically in a backup file using Java serialization
 
 Two Modes
 
@@ -39,14 +40,15 @@ Two Modes
 <hr>
 
 🛠️ Tech Stack
+<ol>
+<li> Java (Core, OOP, Exception Handling)</li>
 
-Java (Core, OOP, Exception Handling)
+<li> Swing (GUI version)</li>
 
-Swing (GUI version)
+<li> File Handling & Serialization</li>
 
-File Handling & Serialization
-
-Multithreading (background saving)
+<li> Multithreading (background saving)</li>
+</ol>
 
 <hr>
 🚀 Getting Started
