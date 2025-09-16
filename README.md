@@ -36,6 +36,7 @@ Two Modes
 🖥️ Console-based (text menu)
 
 🖼️ GUI-based (Java Swing with buttons & dialogs)
+<hr>
 
 🛠️ Tech Stack
 
@@ -78,3 +79,15 @@ You will see a Swing-based UI:
 Buttons for Features, Availability, Booking, Food Ordering, Checkout, Save & Exit
 
 Pop-up dialogs for entering customer details, food orders, and checkout confirmation
+
+
+<hr>
+🔮 Future Enhancements
+
+Database integration (MySQL / MongoDB)
+
+Authentication for staff login
+
+Web-based version using Spring Boot + React
+
+Advanced analytics (occupancy, revenue tracking)
